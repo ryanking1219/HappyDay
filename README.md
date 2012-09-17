@@ -1,4 +1,2 @@
-HappyDay
-========
+This is a first test file.
 
-some programming problem
